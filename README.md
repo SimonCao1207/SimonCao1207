@@ -1,4 +1,4 @@
 # Hi! I'm Nam
 
-### MSc @ [KAIST](https://www.kaist.ac.kr/kr/)
+### MSc @ [OSI - KAIST AI](https://osi.kaist.ac.kr/)
 
